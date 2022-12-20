@@ -2,6 +2,8 @@
 
 > This guide is for educational purposes only
 
+
+📺 Youtube Tutorial: https://youtu.be/vSEgFV3gbe0
+
 ![Preview](thu.jpg)
 
-Youtube Tutorial: https://ethereum-boilerplate.github.io/ethereum-boilerplate
